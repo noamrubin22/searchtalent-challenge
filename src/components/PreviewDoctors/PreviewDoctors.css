@@ -1,0 +1,17 @@
+.container__preview {
+    height: 100%;
+    padding: 2rem;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.container__preview-doctor {
+    padding: 1.5rem;
+    margin: 0.2rem;
+}
+
+@media only screen and (min-width: 600px) {
+    .container__preview {
+        width: 50%;
+    }
+}
